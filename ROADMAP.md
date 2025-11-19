@@ -19,16 +19,14 @@ We're following a **Structured MVP approach** that balances speed with sustainab
 
 ### Timeline Overview
 
-| Phase | Duration | Milestone | Status |
-|-------|----------|-----------|--------|
-| **Phase 1** | Weeks 1-2 | Foundation & MVP | 🚧 In Progress |
-| **Phase 2** | Weeks 3-4 | Analysis Engine | 📅 Planned |
-| **Phase 3** | Weeks 5-6 | Integrations | 📅 Planned |
-| **Phase 4** | Week 7 | Reports & Export | 📅 Planned |
-| **Phase 5** | Week 8 | Multi-tenancy & Auth | 📅 Planned |
-| **Phase 6** | Week 9 | Deployment & Launch | 📅 Planned |
-
-**Total Time to Production**: ~9 weeks
+| Phase | Milestone | Status |
+|-------|-----------|--------|
+| **Phase 1** | Foundation & MVP | 🚧 In Progress |
+| **Phase 2** | Analysis Engine | 📅 Planned |
+| **Phase 3** | Integrations | 📅 Planned |
+| **Phase 4** | Reports & Export | 📅 Planned |
+| **Phase 5** | Multi-tenancy & Auth | 📅 Planned |
+| **Phase 6** | Deployment & Launch | 📅 Planned |
 
 ---
 
